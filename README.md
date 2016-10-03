@@ -109,7 +109,7 @@ https://apiexplorer.docusign.com/
 
 #### License 
 
-The DocuSign PHP Client is licensed under the following [License](LICENSE).
+The DocuSign LoanCo Sample App is licensed under the MIT [License](LICENSE).
 
 
 
